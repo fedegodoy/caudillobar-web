@@ -1,0 +1,17 @@
+# Brand resources (too large for deploy)
+RECURSOS CAUDILLO/
+
+# Development artifacts
+.tmp/
+.git/
+
+# Documentation/planning files
+*.md
+gemini.md
+implementation_plan.md
+progress.md
+task_plan.md
+findings.md
+
+# Tools
+tools/

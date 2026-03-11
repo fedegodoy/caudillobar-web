@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section className="relative h-screen min-h-[600px] w-full bg-brand-cream flex flex-col items-center justify-center overflow-hidden">
       {/* Background Graphic/Pattern Placeholder */}
-      <div className="absolute inset-0 bg-[url('/images/afiches_comic_caudillo_2.png')] bg-cover bg-center opacity-30"></div>
+      <div className="absolute inset-0 bg-[url('/images/afiches_comic_caudillo_2.jpg')] bg-cover bg-center opacity-30"></div>
       
 
       <motion.div

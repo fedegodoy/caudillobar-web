@@ -3,9 +3,9 @@ import React from 'react';
 import { motion } from "framer-motion";
 
 const instaPosts = [
-  { img: "/images/afiche2.png", link: "https://instagram.com/caudillobar" },
-  { img: "/images/afiche3.png", link: "https://instagram.com/caudillobar" },
-  { img: "/images/afiche4.png", link: "https://instagram.com/caudillobar" },
+  { img: "/images/afiche2.jpg", link: "https://instagram.com/caudillobar" },
+  { img: "/images/afiche3.jpg", link: "https://instagram.com/caudillobar" },
+  { img: "/images/afiche4.jpg", link: "https://instagram.com/caudillobar" },
   { img: "/images/placa_noches_criollas_1.png", link: "https://instagram.com/caudillobar" },
 ];
 
