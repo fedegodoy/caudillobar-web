@@ -1,0 +1,119 @@
+{
+  "general": [
+    {
+      "section": "Sanguches del Caudillo",
+      "items": [
+        { "name": "Azurduy", "description": "Bondiola desmechada con verduras", "price": 11000 },
+        { "name": "Dorrego", "description": "Milanesa de bife con verduras", "price": 12000 },
+        { "name": "Artigas", "description": "Hongos grillados con coleslaw", "price": 10500 },
+        { "name": "Restaurador", "description": "Pechuga en cocción lenta con cebolla crispy y salsa tártara", "price": 11500 }
+      ]
+    },
+    {
+      "section": "Platos Principales",
+      "items": [
+        { "name": "Pastel de papas", "description": "Con osobuco braseado al vino tinto, mozzarella y parmesano", "price": 16900 },
+        { "name": "Canelones de pollo", "description": "Relleno con vegetales", "price": 14900 },
+        { "name": "Milanesa de bife de chorizo", "description": "Con papas al rescoldo y alioli criollo", "price": 14500 },
+        { "name": "Ñoquis de sémola", "description": "Gratinados con salsa bolognesa", "price": 18000 },
+        { "name": "Bife de chorizo a la plancha", "description": "Con papas rústicas", "price": 19000 },
+        { "name": "Osobuco braseado", "description": "Con puré de papas", "price": 21000 },
+        { "name": "Risotto de arroz carnaroli", "description": "Con ragú de portobellos, parmesano y verdeo", "price": 18500 }
+      ]
+    },
+    {
+      "section": "Para chuparse los dedos",
+      "items": [
+        { "name": "Empanada de carne", "description": "Cortada a cuchillo, salsa llajwa", "price": 4400 },
+        { "name": "Provoleta grillada", "description": "Chutney de tomate y garrapiñada picante", "price": 16000 },
+        { "name": "Cremoso de cabutia", "description": "", "price": 11000 },
+        { "name": "Mollejas a la parrilla", "description": "Cremoso de papa ahumado, chimichurri", "price": 27990 },
+        { "name": "Papa rota", "description": "A las tres cocciones", "price": 7500 },
+        { "name": "Papas fritas", "description": "", "price": 4000 },
+        { "name": "Ensalada mixta", "description": "", "price": 4500 }
+      ]
+    },
+    {
+      "section": "Postres",
+      "items": [
+        { "name": "Flan mixto", "description": "Con dulce de leche y crema", "price": 6500 },
+        { "name": "Budín de pan", "description": "", "price": 5800 },
+        { "name": "Queso y dulce", "description": "", "price": 6000 },
+        { "name": "Panqueque tibio", "description": "Con dulce de leche y crocante de nuez", "price": 7500 }
+      ]
+    }
+  ],
+  "tragos": [
+    {
+      "section": "Cervezas",
+      "items": [
+        { "name": "Imperial Lata Rubia", "description": "473ml", "price": 4000 },
+        { "name": "Imperial Lata IPA", "description": "473ml", "price": 4500 },
+        { "name": "Andes Lager", "description": "", "price": 4000 },
+        { "name": "Porrón Corona", "description": "", "price": 7000 }
+      ]
+    },
+    {
+      "section": "Tragos",
+      "items": [
+        { "name": "Fernet Branca", "description": "", "price": 7000 },
+        { "name": "Vermut Rosso", "description": "", "price": 6000 },
+        { "name": "Cynar", "description": "", "price": 6000 },
+        { "name": "Gin Tonic", "description": "", "price": 7500 },
+        { "name": "Campari", "description": "", "price": 7000 },
+        { "name": "Ferroviario", "description": "Fernet Branca, Carpano Rosso", "price": 7500 },
+        { "name": "Negroni", "description": "Gin, Campari, Carpano Rosso", "price": 8500 },
+        { "name": "Pico y Pala", "description": "Amargo obrero, jugo de pomelo, menta, soda", "price": 7500 },
+        { "name": "Destornillador", "description": "", "price": 7000 }
+      ]
+    }
+  ],
+  "vinos": [
+    {
+      "section": "Vinos de la Casa",
+      "items": [
+        { "name": "Serbal Malbec", "description": "Atamisque (Mendoza)", "price": 11000 },
+        { "name": "Nicasia Malbec", "description": "Catena Zapata (Mendoza)", "price": 16000 },
+        { "name": "Catalpa Cabernet Franc", "description": "Atamisque (Mendoza)", "price": 17000 },
+        { "name": "Tapiz Alta Cabernet Franc", "description": "Tapiz (Mendoza)", "price": 27000 },
+        { "name": "Wapisa Pinot Noir", "description": "Wapisa (Río Negro)", "price": 21000 },
+        { "name": "Casa Petrini Tannat", "description": "Petrini (Mendoza)", "price": 28000 },
+        { "name": "Pyros Barrel Syrah", "description": "Pyros (San Juan)", "price": 29000 },
+        { "name": "Laborum Cabernet Sauvignon", "description": "El Porvenir (Salta)", "price": 14500 },
+        { "name": "Chacho criolla cereza", "description": "Asensio (Mendoza)", "price": 35000 },
+        { "name": "Tierra del Fuego", "description": "Malbec o Cabernet Sauvignon (Mendoza)", "price": 15000 }
+      ]
+    },
+    {
+      "section": "Blancos",
+      "items": [
+        { "name": "Serbal Viognier", "description": "Atamisque (Mendoza)", "price": 16000 },
+        { "name": "Amauta Torrontes", "description": "El Porvenir (Salta)", "price": 18000 },
+        { "name": "Wapisa Sauvignon Blanc", "description": "Wapisa (Río Negro)", "price": 23000 },
+        { "name": "Catalpa Chardonnay", "description": "Atamisque (Mendoza)", "price": 28000 },
+        { "name": "Nicasia Blanc de Blancs", "description": "Catena Zapata (Mendoza)", "price": 28000 }
+      ]
+    },
+    {
+      "section": "Rosados",
+      "items": [
+        { "name": "Serbal Rosado", "description": "Atamisque (Mendoza)", "price": 17000 },
+        { "name": "Losance Rosado Pinot", "description": "Losance (Mendoza)", "price": 13000 },
+        { "name": "Blush", "description": "Humberto Canale (Río Negro)", "price": 15000 }
+      ]
+    }
+  ],
+  "mediodia": [
+    {
+      "section": "Menú Ejecutivo Mediodía (Todas las opciones incluyen gaseosa/agua)",
+      "items": [
+        { "name": "Sándwich de bondiola", "description": "Lechuga, tomate y huevo. Papas naturales.", "price": 17900 },
+        { "name": "Bondiola al plato", "description": "Grillada, con papas fritas y coleslaw.", "price": 17900 },
+        { "name": "Ensalada de pollo", "description": "Pollo asado, lettuce, cherry tomate, cebolla morada, zanahoria y vinagreta.", "price": 17900 },
+        { "name": "Milanesa al plato", "description": "Bola de lomo, con cremoso de papa y mayonesa de huevo frito.", "price": 17900 },
+        { "name": "Sándwich de milanesa", "description": "Bola de lomo, lechuga, tomate, huevo y salsa tártara. Papas fritas.", "price": 17900 },
+        { "name": "Combo empanadas", "description": "Tres empanadas de carne cortada a cuchillo.", "price": 17900 }
+      ]
+    }
+  ]
+}

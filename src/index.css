@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400..700;1,400..700&family=Oswald:wght@200..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #14294a;
+  --color-brand-cream: #fff4e4;
+  --color-brand-terra: #bf472f;
+  --color-brand-brown: #402020;
+  --color-brand-ochre: #d6a366;
+  --color-brand-dark: #1A1A1A;
+  --color-brand-light: #FAFAFA;
+}
+
+/* Base resets & Brand font styling considerations */
+@layer base {
+  body {
+    @apply bg-brand-cream text-brand-dark antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+    @apply font-bold tracking-tight text-brand-blue;
+  }
+
+  .font-display {
+    font-family: 'Oswald', sans-serif; /* Fallback for Block Berthold Condensed */
+  }
+}
+
+/* Custom utility for the comic/pop stroke effect */
+@layer utilities {
+  .text-stroke-comic {
+    -webkit-text-stroke: 2px var(--color-brand-blue);
+    text-shadow: 4px 4px 0px var(--color-brand-blue);
+  }
+  
+  .box-shadow-comic {
+    box-shadow: 6px 6px 0px 0px var(--color-brand-blue);
+  }
+}
